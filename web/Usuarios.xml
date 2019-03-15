@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bd>
+  <usuario>
+    <user>2016630275</user>
+    <nombre>Victor Ivan Nolasco Cid</nombre>
+    <password>password</password>
+    <tipo>Administrador</tipo>
+    <correo>navi@gmail.com</correo>
+    <grupo>administradores</grupo>
+  </usuario>
+  <usuario>
+    <user>2016632727</user>
+    <nombre>Ruben Peredo</nombre>
+    <password>2727</password>
+    <tipo>Profesor</tipo>
+    <correo>tw@hotmail.com</correo>
+    <grupo>2CM2</grupo>
+  </usuario>
+  <usuario>
+    <user>2016631010</user>
+    <nombre>Didier Ojeda</nombre>
+    <password>1010</password>
+    <tipo>Profesor</tipo>
+    <correo>didier@hotmail.com</correo>
+    <grupo>2CM5</grupo>
+  </usuario>
+  <usuario>
+    <user>201663999</user>
+    <nombre>Ricardo Leon</nombre>
+    <password>leon</password>
+    <tipo>Alumno</tipo>
+    <correo>richi9999@hotmail.com</correo>
+    <grupo>2CM4</grupo>
+  </usuario>
+  <usuario>
+    <user>2016632525</user>
+    <nombre>Julieta Castillo</nombre>
+    <password>0202</password>
+    <tipo>Alumno</tipo>
+    <correo>julieta@hotmail.com</correo>
+    <grupo>1CM4</grupo>
+  </usuario>
+  <usuario>
+    <user>2016631703</user>
+    <nombre>Jessica Garcia</nombre>
+    <password>1703</password>
+    <tipo>Alumno</tipo>
+    <correo>jess@hotmail.com</correo>
+    <grupo>2CV7</grupo>
+  </usuario>
+  <usuario>
+    <user>2016632222</user>
+    <nombre>Juan Marrufo</nombre>
+    <password>2222</password>
+    <tipo>Profesor</tipo>
+    <correo>marrufo@gmail.com</correo>
+    <grupo>2CV7</grupo>
+  </usuario>
+  <usuario>
+    <user>2016637776</user>
+    <nombre>Luis Figueroa Romero</nombre>
+    <password>7776</password>
+    <tipo>Alumno</tipo>
+    <correo>lg@gmail.com</correo>
+    <grupo>2CM3</grupo>
+  </usuario>
+  <usuario>
+    <user>2016620000</user>
+    <nombre>Veronica Agustin</nombre>
+    <password>0000</password>
+    <tipo>Profesor</tipo>
+    <correo>veronica@gmail.com</correo>
+    <grupo>2CM3</grupo>
+  </usuario>
+  <usuario>
+    <user>2016634444</user>
+    <nombre>Euler Contreras</nombre>
+    <password>4444</password>
+    <tipo>Profesor</tipo>
+    <correo>euler@hotmail.com</correo>
+    <grupo>2CM4</grupo>
+  </usuario>
+</bd>
+

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bd>
+  <grupo>
+    <nombre>administradores</nombre>
+    <administrador>Victor Ivan Nolasco Cid</administrador>
+  </grupo>
+  <grupo>
+    <nombre>2CM1</nombre>
+    <profesor>Roberto Jurado</profesor>
+  </grupo>
+  <grupo>
+    <nombre>2CM2</nombre>
+    <profesor>Ruben Peredo</profesor>
+  </grupo>
+  <grupo>
+    <nombre>2CM4</nombre>
+    <alumno>Ricardo Leon</alumno>
+    <profesor>Euler Contreras</profesor>
+  </grupo>
+  <grupo>
+    <nombre>2CV7</nombre>
+    <alumno>Jessica Garcia</alumno>
+    <profesor>Juan Marrufo</profesor>
+  </grupo>
+  <grupo>
+    <nombre>2CM5</nombre>
+    <profesor>Didier Ojeda</profesor>
+  </grupo>
+  <grupo>
+    <nombre>1CM4</nombre>
+    <alumno>Julieta Castillo</alumno>
+  </grupo>
+  <grupo>
+    <nombre>1CM14</nombre>
+  </grupo>
+  <grupo>
+    <nombre>1</nombre>
+  </grupo>
+</bd>
+

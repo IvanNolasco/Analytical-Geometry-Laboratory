@@ -1,0 +1,43 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="bd">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="usuario" minOccurs="1" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:choice>
+								<xs:element name="user">
+									<xs:simpleType>
+										<xs:restriction base="xs:string">
+											<xs:pattern value="[2][0][0-1][0-9][6][3]\d{4}"/>
+										</xs:restriction>
+									</xs:simpleType>
+								</xs:element>
+							</xs:choice>
+							<xs:sequence>
+								<xs:sequence>
+									<xs:element name="nombre" type="xs:string"/>
+									<xs:element name="password">
+										<xs:simpleType>
+											<xs:restriction base="xs:string">
+												<xs:minLength value="6" />
+											</xs:restriction>
+										</xs:simpleType>
+									</xs:element>
+									<xs:element name="tipo">
+										<xs:simpleType>
+											<xs:restriction base="xs:integer">
+												<xs:minInclusive value="1" />
+												<xs:maxInclusive value="3" />
+											</xs:restriction>
+										</xs:simpleType>
+									</xs:element>
+								</xs:sequence>
+							</xs:sequence>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
